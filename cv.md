@@ -39,3 +39,19 @@ function fibonacci(n) {
 }
 ```
 
+## Education
+
+**Cybersecurity** - Astana IT University, 2021 - 2024
+
+Completed courses: Introduction to Programming (C++), Object-Oriented Programming (Java), WEB Technologies 1 (Front End), Algorithms and Data Structures, Database Management Systems, Advanced Programming 1 (Python), Machine Learning Algorithm
+
+## Courses and certificates
+
+**"Поколение Python": курс для начинающих** - Stepik, 2022
+
+**Frontend development** - Element&AstanaHub, 2022 - 2023
+
+## Languages
+* Russian - C2
+* Kazakh - native speaker
+* English - B1
