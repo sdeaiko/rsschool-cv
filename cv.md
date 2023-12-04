@@ -13,3 +13,29 @@
 I am a student at Astana IT University, pursuing my education in the field of cybersecurity. Through the academic program, I have gained deep knowledge in information security, which enables me to understand the importance of data protection and the development of secure solutions. Currently, my goal is to become an outstanding front-end developer, and I continue to work diligently on expanding my skills. I actively participate in online courses, study new technologies and trends, and strive to apply them to real-world projects.
 
 I am a determined and self-organized student who aims for continuous growth and self-improvement. I actively engage in project work to apply my knowledge in practical settings and gain experience. I am prepared to embrace any challenges that come my way and view them as opportunities for personal and professional development.
+
+
+## Skills
+* HTML5, CSS3
+* JavaScript Basics
+* Python
+* Git, GitHub
+* VS Code
+* Figma, Adobe Photoshop
+* PostgreSql
+
+## Code Example
+```javascript
+function fibonacci(n) {
+  const sequence = [0, 1]; 
+  
+  for (let i = 2; i < n; i++) {
+    const a = sequence[i - 1];
+    const b = sequence[i - 2];
+    sequence.push(a + b); 
+  }
+  
+  return sequence;
+}
+```
+
